@@ -9,14 +9,14 @@ public class Polinom {
     private float _b;
     private float _c;
     
-    Polinom(float a, float b, float c)
+    public Polinom(float a, float b, float c)
     {
         _a = a;
         _b = b;
         _c = c;
     }
     
-    Root Desite()
+    public Root Desite()
     {
         double D;
         if (_a == 0 && _b == 0) {
