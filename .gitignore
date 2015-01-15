@@ -9,6 +9,10 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xmlnbproject/private/
+*.properties
+*.xml
+*.mf
+
 
 # generic files to ignore
 *~
