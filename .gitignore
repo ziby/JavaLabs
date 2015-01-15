@@ -1,0 +1,41 @@
+#java specific
+*.class
+
+#netbeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xmlnbproject/private/
+
+# generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+# package files
+*.jar
+*.war
+*.ear
+
+#img
+*.jpg
+
+# not share project
+/barrier
+/Hello, thread
+/mq
+/mqueue
+/OpenMP
+/OpenMPPI
+/PrintStreamTest
+/Que
+/QueueStack
+/TDD
+/thread
+/Unit-Test
+/ChangeScaleAndNameIMG/target/
